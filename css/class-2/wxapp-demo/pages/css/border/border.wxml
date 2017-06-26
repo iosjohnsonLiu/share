@@ -1,0 +1,11 @@
+<!--pages/css/border/border.wxml-->
+<view class="classname">
+   <view class="border solid">solid 实线</view>
+   <view class="border dotted">dotted 点</view>
+   <view class="border dashed">dashed 虚线</view>
+   <view class="border doublie">doublie 双线</view>
+   <view class="border inset">inset</view>
+   <view class="border outset">outset</view>
+   <view class="border ridge">ridge 凸线</view>
+   <view class="border groove">groove 凹线</view>
+</view>

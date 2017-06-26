@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+<scroll-view>
+  <view class="classname" wx:for="{{list}}" wx:for-item="item" wx:for-index="index">
+    <text catchtap="catchtap" data-index="{{index}}" data-url="{{item.url}}">{{item.name}}</text>
+  </view>
+</scroll-view> 
+ 
+</view>

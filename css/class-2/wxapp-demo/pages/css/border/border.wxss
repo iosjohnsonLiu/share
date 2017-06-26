@@ -1,0 +1,22 @@
+/* pages/css/border/border.wxss */
+
+.border{
+  border: 10px solid forestgreen;
+  height: 30px;
+  width: 600rpx;
+  margin: 20px auto;
+  background-color: #eee;
+
+  box-sizing:padding-box;
+  box-sizing:border-box;
+  box-sizing:content-box;
+}
+
+.border.solid{  border-style: solid;}
+.border.dotted{  border-style: dotted;}
+.border.dashed{  border-style: dashed;}
+.border.double{  border-style: double;}
+.border.inset{  border-style: inset;}
+.border.outset{  border-style: outset;}
+.border.ridge{  border-style: ridge;}
+.border.groove{  border-style: groove;}
