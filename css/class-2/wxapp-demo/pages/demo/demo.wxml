@@ -1,0 +1,11 @@
+<!--pages/demo/demo.wxml-->
+
+<view class="classname">
+  <scroll-view>
+    <block wx:for="{{list}}" wx:key="id" wx:for-item="v" wx:for-index="i">
+      <view class="item">
+        <text catchtap="catchtap" data-index="{{i}}" data-url="{{v.url}}">{{v.name}}</text>
+      </view>
+    </block>
+  </scroll-view>
+</view>

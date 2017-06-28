@@ -1,0 +1,29 @@
+/* pages/css/box/box.wxss */
+view{
+  color: royalblue;
+}
+.box{
+  /*display: inherit;*/
+  
+  border: 5px solid palegreen;
+  background-color: yellow;
+  padding:30px;
+  width: 400rpx;
+  height: 400rpx;
+  margin: 50px auto;
+}
+.content{
+  background-color: black;
+  height: 100%;
+  text-align: center;
+  line-height: 400rpx;
+}
+.div{
+  height: 200rpx;
+  background-color: red;
+}
+
+.classname{
+  height: 100vh;
+  background-color: #eee;
+}

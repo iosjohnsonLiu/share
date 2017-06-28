@@ -1,14 +1,29 @@
 {
-  "pages":[
-    "pages/index/index",
+  "pages": [
+    "pages/demo/demo",
     "pages/css/border/border",
-
+    "pages/css/box/box",
+    "pages/css/position/position",
+    "pages/css/flex/flex",
+    "pages/practice/practice",
     "pages/logs/logs"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/demo/demo",
+        "text": "演示"
+      },
+      {
+        "pagePath": "pages/practice/practice",
+        "text": "练习"
+      }
+    ]
   }
 }

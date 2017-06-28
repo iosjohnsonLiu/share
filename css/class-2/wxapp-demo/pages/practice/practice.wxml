@@ -1,0 +1,13 @@
+<!--pages/practice/practice.wxml-->
+
+<view class="bg-box">
+  <scroll-view>   
+      <view class="v11">
+        <view class="v21">21</view>
+        <view class="v22">22</view>
+        <view class="v23">23</view>
+      </view>
+  </scroll-view>
+</view>
+
+

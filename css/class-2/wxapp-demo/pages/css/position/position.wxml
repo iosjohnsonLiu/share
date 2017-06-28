@@ -1,0 +1,8 @@
+<!--pages/css/position/position.wxml-->
+<view class="full">
+  <view class="wrap">
+    <text>相对定位</text>
+    <text>绝对定位</text>
+    <text>浮动定位</text>
+  </view>
+</view> 

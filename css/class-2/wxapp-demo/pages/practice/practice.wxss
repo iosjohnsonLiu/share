@@ -1,0 +1,21 @@
+/* pages/practice/practice.wxss */
+
+.v11{
+  background-color: #000;
+  padding: 1px;
+  color: #fff;
+}
+.v21{
+  height: 30px;
+  background-color: red;
+  order: 20;
+}
+.v22{
+  margin: 20px;
+  order: 30;
+}
+.v23{
+  height: 20px;
+  background-color: red;
+  order: 15;
+}

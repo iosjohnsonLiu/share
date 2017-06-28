@@ -1,0 +1,11 @@
+/* pages/css/position/position.wxss */
+.full{
+  height: 100vh;
+  background-color: #ccc;
+}
+text{
+  display: block;
+  padding: 8px 10px;
+  margin: 10px;
+  background-color: yellow;
+}

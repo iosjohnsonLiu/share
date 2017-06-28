@@ -1,0 +1,8 @@
+<!--pages/css/box/box.wxml-->
+<view class="classname">
+ <view class="div"></view>
+ <view class="box">
+      <view class="content">content</view>
+    </view>
+ <view class="div"></view>
+</view>
